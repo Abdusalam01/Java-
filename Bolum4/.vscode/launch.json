@@ -1,0 +1,84 @@
+{
+    // Olası öznitelikler hakkında bilgi edinmek için IntelliSense kullanın.
+    // Mevcut özniteliklerin açıklamalarını görüntülemek için üzerine gelin.
+    // Daha fazla bilgi için şu adresi ziyaret edin: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ascii_Karsiligi",
+            "request": "launch",
+            "mainClass": "Ascii_Karsiligi",
+            "projectName": "Bolum4_cca7fba6"
+        },
+        {
+            "type": "java",
+            "name": "Launch BesgenAlan",
+            "request": "launch",
+            "mainClass": "BesgenAlan",
+            "projectName": "Bolum4_cca7fba6"
+        },
+        {
+            "type": "java",
+            "name": "Launch BuyukDaireMesafesi",
+            "request": "launch",
+            "mainClass": "BuyukDaireMesafesi",
+            "projectName": "Bolum4_cca7fba6"
+        },
+        {
+            "type": "java",
+            "name": "Launch DogumGunuTahmini",
+            "request": "launch",
+            "mainClass": "DogumGunuTahmini",
+            "projectName": "Bolum4_cca7fba6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Indes",
+            "request": "launch",
+            "mainClass": "Indes",
+            "projectName": "Bolum4_cca7fba6"
+        },
+        {
+            "type": "java",
+            "name": "Launch KarsilastirmaMetodu",
+            "request": "launch",
+            "mainClass": "KarsilastirmaMetodu",
+            "projectName": "Bolum4_cca7fba6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Metodlar",
+            "request": "launch",
+            "mainClass": "Metodlar",
+            "projectName": "Bolum4_cca7fba6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Onaltilik_Ondalik",
+            "request": "launch",
+            "mainClass": "Onaltilik_Ondalik",
+            "projectName": "Bolum4_cca7fba6"
+        },
+        {
+            "type": "java",
+            "name": "Launch SilVeYenisiniYaz",
+            "request": "launch",
+            "mainClass": "SilVeYenisiniYaz",
+            "projectName": "Bolum4_cca7fba6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Triginometri",
+            "request": "launch",
+            "mainClass": "Triginometri",
+            "projectName": "Bolum4_cca7fba6"
+        }
+    ]
+}
