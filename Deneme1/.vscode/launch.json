@@ -1,0 +1,56 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Ornek5",
+      "request": "launch",
+      "mainClass": "Ornek5",
+      "projectName": "Deneme1_ac970b1d"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Ornek1",
+      "request": "launch",
+      "mainClass": "Ornek1",
+      "projectName": "Deneme1_ac970b1d"
+    },
+    {
+      "type": "java",
+      "name": "Ornek2",
+      "request": "launch",
+      "mainClass": "Ornek2",
+      "projectName": "Deneme1_ac970b1d"
+    },
+    {
+      "type": "java",
+      "name": "Ornek3",
+      "request": "launch",
+      "mainClass": "Ornek3",
+      "projectName": "Deneme1_ac970b1d"
+    },
+    {
+      "type": "java",
+      "name": "Ornek4",
+      "request": "launch",
+      "mainClass": "Ornek4",
+      "projectName": "Deneme1_ac970b1d"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Attach)",
+      "request": "attach",
+      "hostName": "localhost",
+      "port": 1044
+    }
+  ]
+}
